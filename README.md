@@ -1,6 +1,8 @@
 # Reinforcement Learning for Inventory Replenishment
 ## A Comparative Study of Q-learning and SARSA under Three Reward Designs
 
+![Reinforcement Learning Inventory Management](images/rl-inventory-thumbnail.png)
+
 This project applies **tabular Reinforcement Learning (RL)** to a simplified single-product inventory replenishment problem. It compares **Q-learning** (off-policy) and **SARSA** (on-policy) under three reward designs inspired by Demand Driven Material Requirements Planning (DDMRP).
 
 The goal is to learn when and how much to reorder while balancing product availability and inventory levels.
